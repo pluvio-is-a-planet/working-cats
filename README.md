@@ -8,3 +8,4 @@ All credits to images used are here:
  - ![second-info-image](./images/info-content2.jpeg) - ["Cats With Jobs"](https://twitter.com/CatsJobs)
  - ![third-info-image](./images/info-content3.jpeg) - ["Cats With Jobs"](https://twitter.com/CatsJobs)
  - ![fourth-info-image](./images/info-content4.jpeg) - ["Cats With Jobs"](https://twitter.com/CatsJobs)
+ - ![Icon](./images/icon.jpg) - ["Pedro Cunha"](https://unsplash.com/photos/4w1jkbYYceo)
