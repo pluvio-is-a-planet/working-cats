@@ -36,6 +36,9 @@ button,
 
 .quote-container {
     background: #e5e7eb;
+}
+
+.quote {
     font-size: 36px;
     font-weight: 300;
     font-style: italic;
@@ -157,4 +160,17 @@ button {
 .info-image {
     width: 158px;
     height: 159px;
+}
+
+/* quote section styling */
+
+.quote-container {
+    display: flex;
+    justify-content: center;
+}
+
+.quote-content {
+    width: 480px;
+    height: 140px;
+    margin: 64px 0;
 }
