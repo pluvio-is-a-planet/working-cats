@@ -44,6 +44,11 @@ button,
     color: #1f2937;
 }
 
+.info-subtext {
+    font-size: 10px;
+    color: #65676b;
+}
+
 .quote-container {
     background: #e5e7eb;
 }
@@ -184,6 +189,10 @@ button {
 .info-image {
     width: 158px;
     height: 159px;
+}
+
+.info-subtext {
+    margin: 0;
 }
 
 /* quote section styling */
