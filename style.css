@@ -6,6 +6,10 @@
     background: #1f2937;
 }
 
+.hero-image {
+    background: #e5e7eb;
+}
+
 .hero-primary {
     font-size: 28px;
     font-weight: 800px;
@@ -130,10 +134,19 @@ button {
 }
 
 .hero-image,
-.hero-image img,
 .hero-content {
     width: 340px;
     height: 180px;
+}
+
+.hero-image {
+    display: flex;
+    justify-content: center;
+}
+
+.hero-image img {
+    height: 180px;
+    width: auto;
 }
 
 /* information section styling */
