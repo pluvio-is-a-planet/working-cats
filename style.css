@@ -29,6 +29,11 @@ button,
     color: #f9faf8;
 }
 
+.action-call-text .action-call-header {
+    font-size: 20px;
+    font-weight: 700;
+}
+
 .info-header {
     font-size: 36px;
     font-weight: 800;
@@ -191,8 +196,7 @@ button {
     flex: 0 1 auto;
     margin: 64px 0 64px 0;
     align-self: center;
-    width: 624px;
-    height: 86px;
+    padding: 16px 64px;
     display: flex;
     border-radius: 0.5em;
     align-items: center;
@@ -200,10 +204,8 @@ button {
     gap: 48px;
 }
 
-.action-call-text {
-    width: 240px;
-    height: 64px;
-    text-align: center;
+.action-call-text p {
+    margin: 0;
 }
 
 /* footer section styling */
