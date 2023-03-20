@@ -1,0 +1,43 @@
+/* fonts and colors */
+
+.header,
+.hero-container,
+.footer {
+    background: #1f2937;
+}
+
+.hero-primary {
+    font-size: 48px;
+    font-weight: 800px;
+    color: #f9faf8;
+}
+
+.hero-secondary,
+.header-nav li a {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+button,
+.action-call-card {
+    background: #3882f6;
+}
+
+.info-header {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.quote-container {
+    background: #e5e7eb;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+}
