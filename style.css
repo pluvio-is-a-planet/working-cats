@@ -26,6 +26,7 @@
 button,
 .action-call-card {
     background: #3882f6;
+    color: #f9faf8;
 }
 
 .info-header {
@@ -70,8 +71,7 @@ button {
     width: 98px;
     height: 38px;
     border: 1px solid #f9faf8;
-    border-radius: 5%;
-    color: #f9faf8;
+    border-radius: 0.5em;
     font-weight: 700;
     font-size: 17px;
 }
@@ -173,4 +173,23 @@ button {
     width: 480px;
     height: 140px;
     margin: 64px 0;
+}
+
+/* call-to-action card section styling */
+
+.action-call-card {
+    margin: 16px auto;
+    width: 624px;
+    height: 86px;
+    display: flex;
+    border-radius: 0.5em;
+    align-items: center;
+    justify-content: center;
+    gap: 48px;
+}
+
+.action-call-text {
+    width: 240px;
+    height: 64px;
+    text-align: center;
 }
